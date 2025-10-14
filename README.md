@@ -1,7 +1,7 @@
 # Arduino Tabanlı Güneş Enerjili ve Metal Dedektörlü 4WD Araç
-
-<img src="galery/car.jpeg"  width="1000" />
-
+<p align="center">
+<img src="galery/car.jpeg"  width="50%" />
+</p>
 
 ---
 
