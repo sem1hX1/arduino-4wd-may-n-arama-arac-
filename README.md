@@ -48,7 +48,7 @@ Projenin kodları Arduino IDE kullanılarak geliştirilmiştir.
 
 1.  Bu repoyu bilgisayarınıza klonlayın veya ZIP olarak indirin:
     ```bash
-    git clone [https://github.com/KULLANICI-ADINIZ/PROJE-ADINIZ.git](https://github.com/KULLANICI-ADINIZ/PROJE-ADINIZ.git)
+    git clone (https://github.com/sem1hX1/arduino-4wd-may-n-arama-arac-)
     ```
 
 2.  Gerekli kütüphaneleri Arduino IDE'nize yükleyin (eğer varsa, burada listeleyin).
