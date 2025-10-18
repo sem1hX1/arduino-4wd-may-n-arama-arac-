@@ -50,16 +50,9 @@ Projenin kodları Arduino IDE kullanılarak geliştirilmiştir.
     ```bash
     git clone (https://github.com/sem1hX1/arduino-4wd-may-n-arama-arac-)
     ```
+2.  `.ino` uzantılı dosyayı Arduino IDE ile açın.
 
-2.  Gerekli kütüphaneleri Arduino IDE'nize yükleyin (eğer varsa, burada listeleyin).
-    ```
-    - ÖrnekKutuphane1.h
-    - ÖrnekKutuphane2.h
-    ```
-
-3.  `.ino` uzantılı dosyayı Arduino IDE ile açın.
-
-4.  Doğru kart ve port seçimini yaptıktan sonra kodu Arduino'nuza yükleyin.
+3.  Doğru kart ve port seçimini yaptıktan sonra kodu Arduino'nuza yükleyin.
 
 ---
 
