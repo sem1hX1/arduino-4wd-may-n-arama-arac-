@@ -42,6 +42,9 @@ Bu proje, **Arduino** platformu kullanılarak geliştirilmiş, 4 tekerlekten çe
 
 ---
 
+<img src="DevreŞeması.png"  width="100%" />
+
+---
 ## Yazılım ve Kurulum
 
 Projenin kodları Arduino IDE kullanılarak geliştirilmiştir.
